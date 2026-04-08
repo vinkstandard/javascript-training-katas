@@ -1,0 +1,6 @@
+{
+    "github.copilot.inlineSuggest.enable": false,
+    "github.copilot.enable": {
+        "*": false
+    }
+}
